@@ -1,0 +1,11 @@
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\bin\Release\netcoreapp2.0\QuickstartIdentityServer.deps.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\bin\Release\netcoreapp2.0\QuickstartIdentityServer.runtimeconfig.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\bin\Release\netcoreapp2.0\QuickstartIdentityServer.runtimeconfig.dev.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\bin\Release\netcoreapp2.0\QuickstartIdentityServer.dll
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\bin\Release\netcoreapp2.0\QuickstartIdentityServer.pdb
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\obj\Release\netcoreapp2.0\QuickstartIdentityServer.csprojResolveAssemblyReference.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\obj\Release\netcoreapp2.0\QuickstartIdentityServer.csproj.CoreCompileInputs.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\obj\Release\netcoreapp2.0\QuickstartIdentityServer.AssemblyInfoInputs.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\obj\Release\netcoreapp2.0\QuickstartIdentityServer.AssemblyInfo.cs
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\obj\Release\netcoreapp2.0\QuickstartIdentityServer.dll
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\obj\Release\netcoreapp2.0\QuickstartIdentityServer.pdb

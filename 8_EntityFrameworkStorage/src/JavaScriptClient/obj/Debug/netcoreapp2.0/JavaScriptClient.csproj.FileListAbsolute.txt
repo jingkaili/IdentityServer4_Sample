@@ -1,0 +1,11 @@
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.deps.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.runtimeconfig.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.runtimeconfig.dev.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.dll
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.pdb
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.csprojResolveAssemblyReference.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.csproj.CoreCompileInputs.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.AssemblyInfoInputs.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.AssemblyInfo.cs
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.dll
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.pdb

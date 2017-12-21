@@ -1,0 +1,16 @@
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=QuickstartIdentityServer
+--content-root=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Account\LoggedOut.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Account\Login.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Account\Logout.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Consent\Index.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Consent\_ScopeListItem.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Grants\Index.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Home\Index.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Shared\Error.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Shared\_Layout.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\Shared\_ValidationSummary.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\_ViewImports.cshtml
+--file=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\QuickstartIdentityServer\Views\_ViewStart.cshtml

@@ -1,0 +1,5 @@
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Api
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Api
+--content-root=F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Api
+--file=

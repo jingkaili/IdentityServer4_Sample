@@ -1,0 +1,10 @@
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\bin\Debug\netcoreapp2.0\Client.dll
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\bin\Debug\netcoreapp2.0\Client.pdb
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\obj\Debug\netcoreapp2.0\Client.dll
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\Client\obj\Debug\netcoreapp2.0\Client.pdb

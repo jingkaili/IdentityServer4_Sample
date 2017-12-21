@@ -1,0 +1,11 @@
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.deps.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.runtimeconfig.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.runtimeconfig.dev.json
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.dll
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\bin\Debug\netcoreapp2.0\ResourceOwnerClient.pdb
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.csprojResolveAssemblyReference.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.csproj.CoreCompileInputs.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.AssemblyInfoInputs.cache
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.AssemblyInfo.cs
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.dll
+F:\111\IdentityServer4.Samples-release\Quickstarts\8_EntityFrameworkStorage\src\ResourceOwnerClient\obj\Debug\netcoreapp2.0\ResourceOwnerClient.pdb
